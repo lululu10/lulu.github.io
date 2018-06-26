@@ -1,11 +1,2 @@
 # Windows 95 Theme for Jekyll
-
-![ss](https://github.com/h01000110/windows-95/raw/gh-pages/screenshot_2.png)
-
-Homepage: [Windows 95](https://h01000110.github.io/20170917/windows-95)
-
-Demo: [Click here](https://h01000110.github.io/windows-95/)
-
-Author: [h01000110 (hi)](https://github.com/h01000110)
-
-License: [MIT](https://github.com/h01000110/windows-95/blob/master/LICENSE)
+天长地久的爱情就在你心中，就象很多人经常问这个世界上到底有没有真爱一样，其实真爱就在你心中，只要你真心的付出，执着的追求， 勇敢的牺牲，真爱就在你的身上发生，天长地久的爱情就是你的爱情。 我们知道，爱是一种无私的付出和牺牲，爱的回报就是对方的永远快乐 和幸福，如果你爱对方，那么你会因为对方快乐而快乐，因为对方幸福而幸福。无论是婚前的热恋中还是婚后的平淡生活中， 只要你是真的爱对方，只要你为了你们的幸福生活而努力付出，那么天长地久的爱情就在你的身边， 不是你拥有了天长地久的爱情，而是你创造了天长地久的爱情. 相信自己~只要有爱，幸福就一定会存在~
